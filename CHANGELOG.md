@@ -2,7 +2,7 @@
 
 All notable disasters and questionable decisions for the Drunk YOLO Trading Bot will be documented here.
 
-## [0.35] - 2024-12-19
+## [0.35] - 2025-09-27
 
 ### 🍺 Initial Drunk Release - V0.35 (UNTESTED)
 
